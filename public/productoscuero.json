@@ -1,0 +1,42 @@
+{
+	"chaquetas": [
+		      {
+			"id":"aa11",
+			"nombre": "chaqueta cuero negro",
+			"descripcion": "chaqueta ideal para salir a fiestas",
+			"costo": 250,
+			"imagen": "https://i.linio.com/p/1237cff4fb7224c97ab5233abdf91033-product.webp"
+		      }, 
+		      {
+			"id":"aa22",
+			"nombre": "chaqueta cuero cafe",
+			"descripcion": "chaqueta ideal para ir a trabajar",
+			"costo": 350,
+			"imagen": "https://i.linio.com/p/00ee95d2f27eb8994e2e1133bad6c96b-product.webp"
+		      }, 
+		      {
+			"id":"aa33",
+			"nombre": "chaqueta cuero vinotinto",
+			"descripcion": "chaqueta casual para ir al bar",
+			"costo": 300,
+			"imagen": "https://i.linio.com/p/948b0acd23a0ba9f618d736d97ca9ea1-product.webp"
+		      }, 
+		      {
+			"id":"aa44",
+			"nombre": "chaqueta cuero gamuza",
+			"descripcion": "chaqueta casual para climas muy frios",
+			"costo": 450,
+			"imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_701699-CBT53917142415_022023-F.webp"
+		      },
+			  {
+				"id":"aa55",
+				"nombre": "chaqueta rockero",
+				"descripcion": "chaqueta ideal para ir a conciertos de rock",
+				"costo": 380,
+				"imagen": "https://s1.abcstatics.com/media/MM/2018/10/04/9Saint%20Laurent-k0AE--862x900@abc.jpg"
+				}
+	 	   ],
+
+	"billeteras": [{},{},{},{}],
+	"correas": "cc22"
+}
