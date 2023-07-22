@@ -2,8 +2,8 @@
     <div id="TotalesComponent">
         <h1>Totales Component</h1>
         <!-- {{  compra }} -->
-        <ul v-for="item in compras" v-bind:key="item.id">
-            <li>{{item.nombre}} - {{  item.costo }} <b-button variant="danger" v-on:click="eliminar(item.id)">E</b-button> </li>
+        <ul v-for="(item,index) in compras" v-bind:key="index">
+            <li>{{item.nombre}} - {{  item.costo }} <b-button variant="danger" v-on:click="eliminar(index)">E</b-button> </li>
         </ul>
 
         <p class="pagar">Total a Pagar: ${{  calcularTotal }}</p>
